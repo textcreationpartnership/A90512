@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gospell courage, or Christian resolution for God, and his truth. In a sermon preached before the Honourable House of Commons, at Margarets in Westminster, at a publique fast, the 31. of May, 1643. / By Andrew Perne Master of Arts, sometimes fellow of Katherine Hall in Cambridge: now minister of Wilby in Northampton-Shire.</title>
+            <author>Perne, Andrew, 1594-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90512</idno>
+            <idno type="STC">Wing P1577</idno>
+            <idno type="STC">Thomason E55_12</idno>
+            <idno type="STC">ESTC R16176</idno>
+            <idno type="EEBO-CITATION">99859980</idno>
+            <idno type="PROQUEST">99859980</idno>
+            <idno type="VID">112085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112085)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E55[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gospell courage, or Christian resolution for God, and his truth. In a sermon preached before the Honourable House of Commons, at Margarets in Westminster, at a publique fast, the 31. of May, 1643. / By Andrew Perne Master of Arts, sometimes fellow of Katherine Hall in Cambridge: now minister of Wilby in Northampton-Shire.</title>
+                  <author>Perne, Andrew, 1594-1654.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Dexter, for Stephen Bowtell, at the signe of the Bible in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print on verso of first leaf.</note>
+                  <note>Running title reads: A sermon preached before the Honourable House of Commons.</note>
+                  <note>Late copies have various mispaginations corrected.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Micah IV, 5 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:112085:1"/>
+            <head>Die Mercurij ultimo <hi>Maii</hi> 1643.</head>
+            <p>
+               <hi>IT is this day Ordered by the Commons aſſembled in Parliament, That Sir</hi> Chriſtopher Yelverton <hi>doe from this Houſe give thanks unto M<hi rend="sup">r.</hi>
+               </hi> Andrew Perne <hi>for the great paines hee tooke in the Sermon he this day preached (at the intreaty of the Houſe of Commons) at S<hi rend="sup">t.</hi>
+               </hi> Margarets, <hi>in the Citie of</hi> VVeſt<g ref="char:EOLhyphen"/>minſter, <hi>being a day of publique Humili<g ref="char:EOLhyphen"/>ation, and that he deſire him to Print his Sermon. And it is Ordered that no man preſume to Print his Sermon, but whom the ſaid M<hi rend="sup">r.</hi>
+               </hi> Perne <hi>ſhall au<g ref="char:EOLhyphen"/>thorize under his hand writing.</hi>
+            </p>
+            <closer>
+               <signed>H. Elſyng. Cler. Parl. D. Com.</signed>
+            </closer>
+            <postscript>
+               <p>I authoriſe <hi>Stephen Powtell</hi> to Print my Ser<g ref="char:EOLhyphen"/>mon above named, and no man elſe.</p>
+               <closer>
+                  <signed>ANDREW PERNE.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:112085:1" rendition="simple:additions"/>
+            <p>GOSPELL COURAGE, Or Chriſtian Reſolution for GOD, and his Truth. In a SERMON Preached before the Honourable Houſe of COMMONS, at <hi>Margarets</hi> in <hi>Weſtminster,</hi> at a Publique FAST, the 31. of <hi>May,</hi> 1643.</p>
+            <p>
+               <hi>By</hi> ANDREW PERNE <hi>Maſter of Arts, ſometimes fellow of</hi> Katherine Hall <hi>in</hi> CAMBRIDGE: <hi>Now Miniſter of</hi> Wilby <hi>in</hi> Northampton-Shire.</p>
+            <q>
+               <bibl>
+                  <hi>JER. 6.16.</hi>
+               </bibl>
+               <p>Thus ſaith the Lord ſtand yee in the wayes, and ſee, and aske for the old pathes: where is the good way, and walke therein; and yee ſhall find rest for your ſoules.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Joſh. 24.15.</hi>
+               </bibl> As for me and my Houſe we will ſerve the Lord.</q>
+            <q>
+               <bibl>
+                  <hi>Dan. 3.18.</hi>
+               </bibl> Be it knowne unto thee O King, that we will not, ſerve thy Gods nor worſhip thy Golden Image which thou haſt ſet up.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Dexter,</hi> for <hi>Stephen Bowtell,</hi> at the Signe of the Bible in <hi>Popes-head-Alley,</hi> 1643.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112085:2"/>
+            <pb facs="tcp:112085:2"/>
+            <head>TO THE HONOURABLE THE KNIGHTS, CITIZENS, and Burgeſſes, of the COMMONS Houſe of PARLIAMENT.</head>
+            <opener>
+               <salute>Noble Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon lately preached be<g ref="char:EOLhyphen"/>fore your Honourable Aſſembly, I now preſent to your review, if in the midſt of ſo many im<g ref="char:EOLhyphen"/>portant buſineſſes of State, which lie upon you; and in ſuch variety of farre more learned Diſcourſes which daily offer themſelves, you can find any leaſure to look on this: You are my witneſſes, and the world may ſee here is
+<pb facs="tcp:112085:3"/>nothing but the words of truth and ſoberneſſe, though many charge us, unheard, with Schiſme, Hereſie, Faction, Sedition, and what not. I muſt ſeriouſly confeſſe, I am conſcious to my ſelfe of many wants and infirmities, and have alwayes avoyded to be publike, as judging them things too high for me, contenting my ſelfe to approve my doctrine to God, and the conſciences of my deare people committed to me; and if I might have pleaſed my ſelfe, I ſhould rather have bin found ſtill in mine own private Cure, and have devolved this taske to any other: But I durſt not refuſe an Authority ſo high and ſacred, to which all honeſt and Religious hearts cannot but ſtoop, in regard of that ſtamp, which the great God hath actually ſet upon it, even for the genera<g ref="char:EOLhyphen"/>tions of after ages: your command will be a ſufficient Apollogie for me, though not for the worke; yet if the great God may have any glory, or the pooreſt in the Church (for, for them only I conceive it fit) any edification by my weake en<g ref="char:EOLhyphen"/>deavours, I ſhall never repent either the preach<g ref="char:EOLhyphen"/>ing or Printing of this Sermon, however un<g ref="char:EOLhyphen"/>willingly I undertook both, being over ruled therto by your requeſt, which is to me inſtead of a command.</p>
+            <pb facs="tcp:112085:3"/>
+            <p>Gentlemen, I have but one ſuit to you, and tis the ſumme of the enſuing Sermon, be Reſolute ſtill for God, and for his true Religion; and you know who ſaid it, <hi>God is with you while you are with him;</hi>
+            </p>
+            <closer>
+               <signed>Your Servant for Chriſt, <hi>ANDREW PERNE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:112085:4"/>
+            <pb n="1" facs="tcp:112085:4"/>
+            <head>A SERMON Preached before the Honourable Houſe of COMMONS, at their publike Faſt, <hi>May</hi> 31. 1643.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MICHAH 4.5.</hi>
+                  </bibl>
+                  <p>For all people will walke every one in the name of his God, and we will walke in the name of our God for ever and ever.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Prophet having ſhut up the former Chapter with the great Judgement that all the Prophets did threaten <hi>Jeruſalem</hi> with, to wit, the Babyloniſh Captivity: begins this Chapter with a pro<g ref="char:EOLhyphen"/>pheſie of that great Mercy that all of them comforts her with, to wit, the <hi>coming</hi> and <hi>Kingdome</hi> of <hi>Chriſt:</hi> But <hi>in the laſt dayes it ſhall come to paſſe</hi> (ſayes he) ver. 1. <hi>that the mountain of the
+<pb n="2" facs="tcp:112085:5"/>houſe of the Lord ſhall be eſtabliſhed in the toppe of the mountaines,</hi> &amp;c. As if he ſhould have ſaid, Though God will plough <hi>Zion,</hi> rend and teare his people with <hi>affections,</hi> make this famous Citie heapes of rui<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and this Mount which is ſo daintily kept ſhall b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> overgrown with nettles, dirt and duſt, like the w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> hills of the deſert: yet the time will come when Chriſt is exhibited, and the Goſpell is prea<g ref="char:EOLhyphen"/>ched, that the Church of God ſhall not be obſcurely confin'd, and ſhut up in a darke corner of the world; but ſhall be ſo eminently conſpicuous, and famouſly known, that the Gentiles ſhall flow unto it: <hi>for out of Zion</hi> (indeed) <hi>ſhall the word of the Goſpell proceed;</hi> but it ſhall ſpread it ſelfe over all Nations; and it ſhall ſo calme and quiet their ſpirits, that they ſhall lay down all hoſtile diſpoſitions; and as if they were compoſed of <hi>peace,</hi> they ſhall turne their warlike infiruments into tooles of husbandry; <hi>their Swords <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> plough ſhares, and their ſpeares into pruning books:</hi> every one ſhall be contented with, and ſafely ſit under his own vine and fig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. And then comes in theſe words, which are either as an exhortation to the people of God that then were (as <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lvin</hi> hath it) to ſtirre them up, <hi>Ad invictam animi mag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nudinem <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſultent cunctis gentibus,</hi> to an inconquerable mag<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mity, and to an holy inſultation over all Nati<g ref="char:EOLhyphen"/>ons in regard of their God: or as a prophecie of the Goſpel courage, and Chriſtian valour and re<g ref="char:EOLhyphen"/>ſolution which ſhall be in thoſe that live in the Goſpel times: and ſo of this. And why not of you? for the words are a ſolemne and ſerious proteſta<g ref="char:EOLhyphen"/>tion, like whereunto you have lately taken, and
+<pb n="3" facs="tcp:112085:5"/>commanded all the Kingdome, that with their li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, power, and eſtares they ſhould maintain the true Proteſtant Religion which is to walke in the name of our God) againſt all Popery and Popiſh Innova<g ref="char:EOLhyphen"/>tions.</p>
+            <p>In the words you may obſerve firſt a generall conſent of all Nations, that there is, and to have <hi>A God:</hi> this is inſinuated in the Text.</p>
+            <p n="2">2. The diverſity of judgement among the Nati<g ref="char:EOLhyphen"/>ons concerning this <hi>God:</hi> for though they all agree that there is <hi>A God,</hi> and every one will have One: but herein they differ, who this true God is.</p>
+            <p n="3">3. The peremptorineſſe of every Nation for Their God, and for Their Religion. <hi>All people will walke every one in the name of their God, and we [will] walke,</hi> &amp;c.</p>
+            <p n="4">4. A bleſſed uſe which the Church maketh of this for her ſelfe, and her God: others will be ſtiffe and peremptory for their Gods, and ſo will ſhe for hers.</p>
+            <p n="5">5. The Eminencie, tranſcendency, and Excellen<g ref="char:EOLhyphen"/>cie of her God above theirs: Theirs are Gods; but hers is the <hi>Lord our God: Ichovah,</hi> a God that hath a Being of himſelfe, Theirs have none.</p>
+            <p n="6">6. Obſerve the time how long. Not for a fit or a good mood (while that laſts,) will the Church be thus peremptory for her God and Religion, but for ever and ever.</p>
+            <p>One phraſe only, I conceive, needs opening, which is this: What it is to walke in the name of a God? and it ſtands under divers ſenſes:</p>
+            <p>Firſt, to bee called by his name, as Wives, Chil<g ref="char:EOLhyphen"/>dren,
+<pb n="4" facs="tcp:112085:6"/>Diſciples, are called by the Names of their Husbands, Parents, Maſters: So here, all Nations will tryumph, and will be willing to owne, and not be aſhamed of the Name of their God, and wee will not be aſhamed of our glory, <hi>Deut.</hi> 28.10. and all the People of the Earth ſhall ſee, that thou art called by the Name of the Lord, the 2 <hi>Chron.</hi> 7.14. <hi>If my People that are called by my Name,</hi> &amp;c.</p>
+            <p>Secondly, to goe furniſhed with the divine Au<g ref="char:EOLhyphen"/>thority of God. Mar. 11. <hi>Bleſſed is he that commeth to us in the Name of the Lord,</hi> and ſo the 1 Cor. 5.4. <hi>In the Name of our Lord Ieſus Chriſt when ye are gathered toge<g ref="char:EOLhyphen"/>ther, and my Spirit,</hi> &amp;c.</p>
+            <p n="3">3. To walke in the Power and ſtrength of God, the 1 <hi>Sam.</hi> 17.45. <hi>Thou comeſt to me with a ſword and a ſpeare, and with a ſhield; but I come to thee in the Name of the Lord of Hoſts</hi> (ſaies <hi>David</hi> to <hi>Goliah</hi>) which is in the ſtrength of God.</p>
+            <p>Fourthly, to walke in the ſcare, Lawes, Ordinan<g ref="char:EOLhyphen"/>ces, and whole worſhip of God. And this I conceive to be the proper meaning of this place.</p>
+            <p>The Doctrines are many. We ſhall therefore play the Travaller; paſſe by ſome Townes though good, call in at others, and make our ſtay in that, that is moſt convenient.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label>
+               <hi>There is a</hi> GOD.</p>
+            <p>This truth we read in the Booke of nature that lies continually open before us, written in ſo great and Capitall Letters, that one though ſtone blind, if he have other ſenſes, may read it. And Conſcience
+<pb n="5" facs="tcp:112085:6"/>within teaches this: All Nations agree in it. There is a peradventure indeed, in every mans heart, that there is no God: and according to the ſtrength of this in the ſoule, ſo is the life God leſſe: But there is a ſemi-certainty in every ſoule that there is a God: and when this prevailes, then a Man will be devoute in his way. And therefore ſaith the Heathen: <hi>Menciuntur qui dicunt, ſe non ſentire eſſe Deum,</hi> they lie in their throats that ſay, they thinke there is no God. But we leave this.</p>
+            <div type="part">
+               <milestone type="tcpmilestone" unit="Doct." n="2"/>
+               <head>Severall Nations have ſeverall <hi>Gods:</hi> Or there are ma<g ref="char:EOLhyphen"/>ny falſe <hi>Gods</hi> in the World.</head>
+               <p>In the 1 <hi>Cor.</hi> 8.5. There be Gods many, and Lords many. No truth ſo generally and univerſally gran<g ref="char:EOLhyphen"/>ted as this: That there is a <hi>God;</hi> but none ſo much controverted as who the true God is. Man brings into the World with him notions and ſure appre<g ref="char:EOLhyphen"/>henſions of a deity: Education and Cuſtome do ſpe<g ref="char:EOLhyphen"/>cificate, and ſhape theſe generall notions of a GOD, and a Religion; to that <hi>God,</hi> and into that Religion that the Countrey accounts the true. From hence he that is borne in <hi>Turkey</hi> is a <hi>Mahumetan:</hi> In <hi>Italie</hi> a Papiſt; in <hi>England</hi> a Proteſtant. So ſoone as Men are borne, they fall a groaping for a <hi>God,</hi> and for a Religion: One there is, but who, and which wee know not; and that, that is firſt put into our hands by our Parents and Governours, that we cloſe with<g ref="char:EOLhyphen"/>all. And this is the State and condition of all Men living; the beſt and deareſt Saints of God are thus by nature, and would have beene <hi>Turkes,</hi> and <hi>Papiſts</hi> had
+<pb n="6" facs="tcp:112085:7"/>they bin borne there, till God ſeized upon them by his grace, regenerated them, and reveal'd himſelfe unto them. Yee were without <hi>God</hi> in the World as well as others.</p>
+               <p>A God then there is, but who, and what <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one, the People and Nations of the World cannot agree; and therefore, how many have the Nations who are left unto the light of nature, ſet up for Gods; that had Country <hi>Gods,</hi> and Citie <hi>Gods,</hi> and houſhold <hi>Gods,</hi> and particular perſonall Gods: <hi>Gods</hi> for all places, for Heaven, and Hell, and Sea, and Land; for all occa<g ref="char:EOLhyphen"/>ſions; for war, and peace, and plenty, and health, and ſicknes: the number of their <hi>Gods</hi> as ſome of their own Authors have ſummed them up, was above thirty thouſand. The Papiſts in our dayes have more.</p>
+               <p>If yee ſay, what's the cauſe of this, that the World ſhould be thus out in ſo great a point?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> All have loſt the knowledge of God in <hi>Adam,</hi> that was our great loſſe; for his ſin <hi>God</hi> hath withdrawne himſelf, hid himſelf in ſecret, &amp; will not fully, ſuffici<g ref="char:EOLhyphen"/>ently, or ſavingly reveale himſelf by the Creatures to the ſons of men: but hath choſen a new way to vent himſelf, which is by Ieſus Chriſt, <hi>Mat.</hi> 11.27. No Man cometh to the father but by mee (ſaith Chriſt) and ſo <hi>Ioh.</hi> 11.6. <hi>No man knoweth the Father but the ſon, and he to whom the Sonne ſhall reveale him.</hi> There is not in all the Booke of Nature, one <hi>Iota,</hi> or one hint of <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi> Many nations are without the Goſpell; few perſons know Jeſus Chriſt, (I pray God you may looke to your ſelves) and therefore are wilde, and vaine, and various in their Imaginations of God.</p>
+               <p>It comes from the infinite diſproportion that is
+<pb n="7" facs="tcp:112085:7"/>between <hi>God</hi> and Man. <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> What Houſe will yee build mee? (ſaith <hi>God</hi>) I fill Heaven and Earth, the Hea<g ref="char:EOLhyphen"/>ven of Heavens are not able to containe mee: So, what thoughts will yee reare up to entertaine the great God in? How will yee doe to ſtretch thoſe narrow Soules of yours that the King of glory may come in? It is impoſſible for a <hi>Camel</hi> to goe through the eye of a needle, but how impoſſible for God to come into his Creature? The ſences, which are the Lanes, or Gates which lead to the ſoule, neither is there any thing in the underſtanding but it is firſt in the ſences: theſe are all too narrow, God is inviſi<g ref="char:EOLhyphen"/>ble, and cannot be ſeene: <hi>Thou canſt not ſee my Face,</hi> (ſayes God) to <hi>Moſes,</hi> and yet he had, and could ſee great and dreadfull things; but had hee ſeene this, his ſoule would have ran away.</p>
+               <p>He is ineffable, bigger then all definitions and de<g ref="char:EOLhyphen"/>ſcriptions; greater then words can tell. Its peculi<g ref="char:EOLhyphen"/>ar to God to exceed knowledge. And therefore the Logicians have wiſely excluded him out of their Predicaments, <hi>ubique proſens, ſed latens,</hi> nothing more preſent then God, and nothing more unſeene.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label>
+                  <hi>If you ſay, but this Reaſon ſhuts out all Men; yet there are that doe know him.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> It doth indeed ſhut out all from any naturall knowledge of him, by naturall meanes; the know<g ref="char:EOLhyphen"/>ledge of God is a ſupernaturall grace; bred onely by the ſpirit of God in the hearts of the Men, of his good will. This Spirit doth ſupernaturally ſtretch out the narrow ſoule of Man, doth in large and widen it, and raiſes it up about its own nature to conceive a<g ref="char:EOLhyphen"/>right of <hi>God.</hi> This Spirit lifteth up the doores, and
+<pb n="8" facs="tcp:112085:8"/>ſets open the Gates that the King of glory may come in. And becauſe the faculties cannot bee wound up to infiniteneſſe, that they may hold proportion to the immenſity of God, therefore the ſpirit does two things.</p>
+               <p>Firſt, it creates an eekening in the ſoule, which is Faith, helping of it to believe, what it cannot ap<g ref="char:EOLhyphen"/>prehend. He that commeth unto God muſt believe: hee'll never reach him elſe. The underſtanding and knowledge cannot be ſtretched out to conceive high enough of God, and therfore the ſpirit creates an addition, which is Faith, helping of the ſoule to believe, what it cannot conceive. As when the Virgin <hi>Mary</hi> was told, that ſhe ſhould conceive and be are a Sonne, <hi>how can this be</hi> (ſaith ſhe) <hi>ſeeing I know nor a man?</hi> her reaſon could not reach it; and ther<g ref="char:EOLhyphen"/>fore ſhe laid her Faith to it: <hi>Be it unto me according to thy word.</hi>
+               </p>
+               <p n="2">2. As the Spirit doth inlarge, and adde to the ſoule; ſo it doth in a manner leſſen God. God hum<g ref="char:EOLhyphen"/>bling of himſelfe in being willing to be deſcribed after the manner that man can take him, and reach him. And oh! what a condeſcention and ſtoope is this in the Almighty, that he ſhould be willing to be ſet out, as having hands, and feet, and eyes; that ſo men may ſippe a little of him! Man cannot goe up to God, and therfore God will meet him halfe way, and come down to him. And before the Spirit doth thus worke in the ſoule, none know the true God, few Nations or people, yea few perſons have this worke in them; and therfore few doe know
+<pb n="17" facs="tcp:112085:8"/>the true God, and from hence ſo many falſe gods in the world.</p>
+               <p n="3">3. The heart of man is inrag'd and vext that God doth hide himſelfe from his ſenſes. God keeps him<g ref="char:EOLhyphen"/>ſelfe in ſecret, and will not be ſeene: and therefore man will have other gods who ſhall. <hi>Make us gods that may goe before us,</hi> (ſay the <hi>Iſraelites</hi> to <hi>Aaron</hi>) <hi>ſuch as we may ſee.</hi> Hence are your Idols among the Heathen: Pictures, and Crucifixes among your Pa<g ref="char:EOLhyphen"/>piſts: and with men of carnall and corrupt mindes amongſt our ſelves. Men will have ſomething before their eyes to direct their worſhip and ſervice unto. Men are vext that God ſhould keepe himſelfe, or any thing elſe ſecret from them. How faine would men be fingring of Election, and Reprobation? How an<g ref="char:EOLhyphen"/>gry were our deſperate Divines of late, becauſe they could not finde out the bottome of them? See the reaſon:</p>
+               <p>There's none, unleſſe they can ſee the depth and Cauſe.</p>
+               <p>We are very prone to be too ſawcy with divine things w<hi rend="sup">ch</hi> dwel in darknes, and God wil not bear it. Bounds and limits were ſet the people when God gave the Law: they muſt not gaze, leſt they die. And as men are angry with this retiredneſſe of God, that he will not make himſelfe familiar to their ſen<g ref="char:EOLhyphen"/>ſes: So are they vext and fretted with his monopo<g ref="char:EOLhyphen"/>lizing, and reſerving all the wayes and manner of his worſhip to himſelfe: men are mad upon Will-wor<g ref="char:EOLhyphen"/>ſhip. Something they will have of their owne inven<g ref="char:EOLhyphen"/>tion to be mingled with the worſhip of God: he ſhall not have altogether his owne way and will. They
+<pb n="10" facs="tcp:112085:9"/>will out of their wiſdome (which is their folly) adde ſome Ceremonies, at the leaſt, to beautifie the ſloven<g ref="char:EOLhyphen"/>ly worſhip of God: as ſome of them have more then prophanely ſpoken. And from hence were your gol<g ref="char:EOLhyphen"/>den Copes, &amp; gorgious Altars, ſhining Candleſtickes, decent Ceremonies, the more to decorate and adorn the ſervice of God. Thus man will be corrupting the ſpirituall ſervice of God, with his baſe, carnall, beg<g ref="char:EOLhyphen"/>gerly inventions. And for this cauſe God gives men over to extreame folly; even to worſhip the things that they have made ſo beautifull: to bow downe to their Altars that they have deckt: and all their wiſ<g ref="char:EOLhyphen"/>dome, Scholerſhip, learning, and diſtinctions, are not able to deliver them from it. The 1. <hi>Rom.</hi> 21. Becauſe when they knew God, they worſhipped him not as God, therefore God gave them over: laid them faſt in their owne dung and filth: And who were theſe? Such as profeſt themſelves to be wiſe, the great Scholars of the world. In the 1 <hi>Cor.</hi> 1.20. <hi>Where is the wiſe? where is the diſputer?</hi> not in Chriſt, as <hi>Paul</hi> was; he was fooliſhneſſe. So with us, Where were our great learned Rabbins? their diſtinctions had carried them downe to <hi>Rome:</hi> they could break the Sabbath with diſtinctions, and bow downe to Name and Altar with diſtinctions: and therefore God befooles them, and gives them over to worſhip the workes of their own hands, their owne babies: And therefore wonder not (my Brethren) that you have lately ſeene great Scholars to be ſortiſh in their bowing downe to name and places, for God committed them to ſuperſtition and Idolatry, and who could baile them? Theſe Reaſons may ſuffice,
+<pb n="11" facs="tcp:112085:9"/>though many more may bee given.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe </seg>1</label> Conſider this, and learne to pitty, pray for, and help the nations and people who are without the knowledge of the true God. Survey the world in your thoughts, and conſider how great a part of it ſits in the dark, groping after a God and taking hold of the Creatures: ſome of Stocks and Stones, yea, ſome of them (if we may beleeve Hiſtorians) of the very Devill himſelfe, and worſhipping of him in ſtead of God; and God as yet withholding of him<g ref="char:EOLhyphen"/>ſelfe from them: and that, ſo farre as we know, for <hi>Adams</hi> ſin. <hi>Rom.</hi> 11.33. <hi>Oh! the depth of the riches, both of the wiſdome and knowledge of God, how unſearchable are his Judgements, and his wayes paſt finding out!</hi> Private men may pray for them: but it muſt be the power of ſome ſuch Soveraigne Aſſembly as this is of yours, to ſend unto them the knowledge of the true God: and who knows, but for this alſo, you are met together at this time? that when you have repaired our breaches, and done the will of God for us, you may be a bleſſing, and a healing to other na<g ref="char:EOLhyphen"/>tions.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>2</label> If many falſe Gods in the world, then let us bee thankfull for the knowledge of the true God. Re<g ref="char:EOLhyphen"/>joyce in Gods name, lift up your banners, Let <hi>Eng<g ref="char:EOLhyphen"/>land</hi> rejoyce in him that made it;
+<note place="margin">
+                     <hi>Eſa.</hi> 33.12.</note> for <hi>bleſſed is the na<g ref="char:EOLhyphen"/>tion whoſe God is the Lord, and the people whom he hath choſen for his owne;</hi> this makes them Gods owne. This is the greateſt kindneſſe, the moſt diſtinguiſhing, ſpeciall favour of God: this mercy of knowing God, comes out of the very heart of Jeſus Chriſt; for in him, and none elſe, God reveales himſelf unto
+<pb n="20" facs="tcp:112085:10"/>men, God lookes to be praiſed and thankt for this The knowledge of God lifts a nation up to heaven; <hi>Capernaum</hi> was lifted up to heaven by preaching of the Goſpel,
+<note place="margin">
+                     <hi>Matth.</hi> 11.23</note> and when God thus exalts a nation, he looks to be exalted by it:
+<note place="margin">
+                     <hi>Ioh.</hi> 14 22.</note> 
+                  <hi>Lord, how is it that thou wilt manifeſt thy ſelfe unto us, and not unto the world?</hi> So, who is <hi>England,</hi> Lord, that thou ſhouldſt reveale thy ſelfe to it, and not to other nations? Man is a brag<g ref="char:EOLhyphen"/>ging creature, and God takes notice of it: If his face be fairer, his backe or armes ſtronger, or his head wiſer, his purſe fuller then others, he will bee ready to boaſt of it, and glory in it: but God would have all this laid out upon himſelfe.
+<note place="margin">
+                     <hi>Ier.</hi> 9.23.</note> Let not the wiſe man glory in his wiſedome, neither let the mighty man glory in his might, let not the rich man glory in his riches, but let him that glorieth, glory in this, that he underſtandeth and knoweth me, that I am the Lord.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>3</label> Are there many falſe gods in the world? Then take heed that there bee none kept ſecretly in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> it hath been with <hi>England,</hi> as it was with <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> family, and the <hi>Iſraelites</hi> in the dayes of <hi>Moſes</hi> and <hi>Joſhua,</hi> though the true God was publikely ac<g ref="char:EOLhyphen"/>knowledged and worſhipped in both, yet there were private perſons and families, who kept Idols and falſe Gods, and worſhipt them; and therefore when <hi>Jacob</hi> was to goe up to <hi>Bethel,</hi> to build an Altar there unto God, he firſt purges his family from Idols, <hi>Gen.</hi> 35. And <hi>Joſhua,</hi> when he tooke his laſt leave of the children of <hi>Iſrael,</hi> and cauſed them to enter into a Covenant that they would ſerve God, exhorts them to put away the ſtrange gods that were among them
+<pb n="21" facs="tcp:112085:10"/>
+                  <hi>Joſh.</hi> 24.14. So, how many falſe gods have there been ſtill kept, and worſhipped in private families and houſes here in <hi>England,</hi> ever ſince the re<g ref="char:EOLhyphen"/>formation? Nay, it hath been worſe with us: for the Romiſh, ſuperſtitious, nay idolatrous Croſſes and Crucifixes have been upheld and deckt, if not new built, in the ſtaring-Cheape, in our Church-yards, High-wayes, and theſe have been worſhipt, and by theſe, and ſome other things, the Pope hath kept poſſeſſion of our Kingdome: Doe you cancell theſe curſed Evidences, God lookes for it at your hands; Downe with theſe high-places, ſearch <hi>England</hi> with Candles, till you finde out all the abominations which are committed in ſecret; and doe you in the name of <hi>England</hi> (for your places will beare it) ſay, <hi>What have I to doe with Idols any more? get you hence as filthy and uncleane things;</hi> and inſtead of theſe ſend abroad thoſe, who may teach the good knowledge of the Lord, may ſcatter the light of the <hi>Sunne of righteouſneſſe.</hi> How many uncatechiſed darke cor<g ref="char:EOLhyphen"/>ners are there in this Kingdome? how many per<g ref="char:EOLhyphen"/>ſons that know not God, nor whether Chriſt were Man or Woman? Helpe theſe to know their Ma<g ref="char:EOLhyphen"/>ker.</p>
+               <p n="1">1. The greateſt good that you can poſſibly doe this Kingdome is, to helpe it yet more to the know<g ref="char:EOLhyphen"/>ledge of God; this is the end and the perfection of man; herein his excellency above other crea<g ref="char:EOLhyphen"/>tures, that he had a rationall ſoule given him, fitted to ſip a little of the knowledge of God: this is the life and the liberty of the ſubject, ye ſtand much for
+<pb n="14" facs="tcp:112085:11"/>them, and (for ought I know) cannot ſtand too much: <hi>This is eternall life, to know thee the onely true God, and Jeſus Chriſt whom thou hast ſent,</hi> and this eſtates us <hi>into the glorious liberty of the Sonnes of God.</hi>
+               </p>
+               <p n="2">2. This is the greateſt profit, it will bring the Kingdome in more then all the Merchants of it. Looke how much any doe know God and Chriſt, ſo much are they theirs; now a little of God is more then a great deale of the creature: <hi>I deſire to know nothing but Christ and him crucified</hi> (ſayes <hi>Paul</hi>) if he could know him more, hee ſhould be more his.</p>
+               <p n="3">3. This would reforme the Kingdome better then all the Lawes that you can make; <hi>knowing the ter<g ref="char:EOLhyphen"/>rour of the Lord we perſwade men.</hi> If wee can but get men to know God, we may perſwade them: A good Miniſter will reforme a Pariſh better then a Iuſtice of Peace; the weapons of our warfare are not car<g ref="char:EOLhyphen"/>nall, but ſpirituall, yet <hi>mighty through God to caſt down ſtrong holds.</hi> We ſpit fire into mens conſciences, and binde men over to the great Aſſizes of Quicke and Dead.</p>
+               <p n="4">4. God is the fountain of all the Mercies and Mi<g ref="char:EOLhyphen"/>ſeries that we meet withall; if any ſhould ſtill bee ſending of us kindneſſes, now and then a ſweet child, an Office, change of Apparell, Meat, and Drinke, and Sleep, night and day one thing or another: and ſometimes ſhould be reaching of us a ſmart blow, a Feaver, a fit of the Stone and Gout, killing thou<g ref="char:EOLhyphen"/>ſands in a weeke in our ſtreets of the Peſtilence, ba<g ref="char:EOLhyphen"/>thing of his ſword in our bloud, how ſhould we de<g ref="char:EOLhyphen"/>ſire to know this perſon, that we might know how to carry our ſelves towards him, and to be at peace
+<pb n="15" facs="tcp:112085:11"/>him? Helpe <hi>England</hi> to know the <hi>God</hi> of <hi>Englands</hi> mercies and of <hi>Englands</hi> corrections.</p>
+               <p>Firſtly, We can neither goe any whither, or doe a<g ref="char:EOLhyphen"/>ny <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing without him. In him we live, and move, and have our being. Yea, wee ſhall ever have to doe with him. The knowledge of God, would do a Man good in time of affliction: when comfort will bee worth a World, and what will Men doe in time of affliction, if they know not God? When the Soule comes to ſigh it's laſt, and to groane into eternity: to goe to meet with a God it knowes not, how ſad a thing is this? And you that know him, labour to know him more, for yee are not paſt this leſſon, nor ever ſhall.</p>
+            </div>
+            <div type="part">
+               <head>It is Naturall with Men to bee peremptory for their God,
+<note place="margin">3 <hi>Doct.</hi>
+                  </note> and for their Religion.</head>
+               <p>All People will, and wee will. If a Nation con<g ref="char:EOLhyphen"/>ſent together, and chuſe a King to Reign over them; ſo long as he keepes the Paction, and the agreement betweene them, they will fight for him. <hi>Ioh.</hi> 18.36. <hi>If my Kingdome were of this world, then would my ſer<g ref="char:EOLhyphen"/>vants fight, that I ſhould not be delivered to the Jewes.</hi> The God of the Nation is above the King; and their Religion above their Civill Lawes: and therfore men will be peremptory for them; walke in them, themſelves; and be glad of your company. You can<g ref="char:EOLhyphen"/>not doe a Nation a greater kindneſſe then to joyne and comply with it, in its Religion, and forſake your owne. That temper is in all men, to compaſſe Sea and Land to make a Proſelite to their God, and
+<pb n="24" facs="tcp:112085:12"/>their Religion. When nothing will procure liber<g ref="char:EOLhyphen"/>ty to a Captive, yet this will; to abdicate and re<g ref="char:EOLhyphen"/>nounce his Religion, and to joyne with them that have taken him. Contrarieties, yea, ſmall differen<g ref="char:EOLhyphen"/>ces in Religion, doe breed the ſtrongeſt opp oſition: But conſent in Religion, is the ſtrongeſt ſement in all the World.</p>
+               <p>The perſecutions therefore, that have beene a<g ref="char:EOLhyphen"/>mong us of late, have beene againſt the Law of na<g ref="char:EOLhyphen"/>tions; The <hi>Turke</hi> Honours thoſe that are the moſt ſtrick't obſervers of <hi>Mahomet:</hi> The Papiſts Saint thoſe that are zealous for the Pope; and yet wee have beene derided, ſcorned, perſecuted, and Cour<g ref="char:EOLhyphen"/>ted for walking in the name of our God; for keep<g ref="char:EOLhyphen"/>ing his Lawes, for ſanctifying his Sabbaths, hearing his word: which not onely our God, but the very Lawes of the Land doe command us. But wee ſtay not here.</p>
+            </div>
+            <div type="part">
+               <milestone type="tcpmilestone" unit="Doct." n="4"/>
+               <head>The Church of God hath great cauſe to be zealous, ſtiffe, and reſolute for Her God, and Her Religion.</head>
+               <p>All <hi>Nations</hi> will, and we will. Why? Their Rocke is not like our Rocke; Our's is <hi>Jehovah</hi> as well as God; a God that nath a being: theirs have none, but in fancy and imagination. Our's is ſome<g ref="char:EOLhyphen"/>thing, but theirs are nothing; <hi>an Idol as nothing</hi> (ſayes the Apoſtle) 1 <hi>Cor.</hi> 8.4.</p>
+               <p>All the attributes of God are the Reaſons of this Point.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> He is a Living God, other Gods are dead, and dirt. If it had not beene for the living <hi>Geeſe,</hi> the Capi<g ref="char:EOLhyphen"/>tall
+<pb n="17" facs="tcp:112085:12"/>of <hi>Rome,</hi> and all the dead Gods, had beene ta<g ref="char:EOLhyphen"/>ken: So that a living <hi>Gooſe</hi> is better then a dead GOD.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> 2. He is a wiſe <hi>God,</hi> the onely wiſe God: His un<g ref="char:EOLhyphen"/>derſtanding is infinite; <hi>Iſa.</hi> 40.28.
+<note place="margin">
+                     <hi>Pſal.</hi> 147.5.</note> 
+                  <hi>There is no ſearch<g ref="char:EOLhyphen"/>ing of his underſtanding.</hi> And who would ſerve a ſoole, have a foole for his Maſter? Much leſſe for his God. That was the bleſſedneſſe of <hi>Solomons</hi> ſervants, that they ſtood, and heard his wiſedome. The contrary is miſery; to be bound to heare the babling of a fool. Why, all falſe Gods are Fooles; and ſo are they that worſhip them. <hi>Be wiſe then, O yee Kings, be Learned yee that are Iudges of the Earth; ſerve the Lord in feare,</hi> Pſa. 2.10. That King's a Foole and thoſe Iudges are but Dunces, that doe not feare this God.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>3</label> 3. He is Omnipotent, able to doe great things; a<g ref="char:EOLhyphen"/>ny thing, all things: nothing is impoſſible with <hi>God. When I behold the Heavens, the worke of thy fingers</hi> (ſaies David.) The Heavens are but Finger worke with him. <hi>Hee drawes out the Heavens, like a Curtaine, hee does it with eaſe;</hi> Hee feaſts the Earth with the ope<g ref="char:EOLhyphen"/>ning of his hand; <hi>Thou openeſt thy hand and filleſt with thy bleſsing every living Creature:</hi> He rides upon the hea<g ref="char:EOLhyphen"/>vens, as upon a horſe; they are his horſe of manage, he can ſtay them, make them to goe backward, or forward as eaſity as you can your horſe: But other Gods are nothing: An Idoll is nothing, and can do nothing, <hi>Ier.</hi> 10.5. <hi>They cannot doe evill; neither is it in them to doe good,</hi> Chap. 14.22. <hi>Are there any among the Vanities of the Gentiles that can give you Raine?</hi> Our <hi>God</hi> alone is able to doe a Man good, and to doe a Man taiſchiefe; hee can famiſh all the <hi>Gods</hi> of the
+<pb n="18" facs="tcp:112085:13"/>World, <hi>Zeph.</hi> 2.11. The Lord will be terrible un<g ref="char:EOLhyphen"/>to them, for he will famiſh all the Gods of the earth: He can, and we hope he will famiſh Popery, and <hi>Ar<g ref="char:EOLhyphen"/>minianiſme,</hi> and <hi>Ieſu</hi> Worſhip. And the Lord can reſcue and deliver thoſe that ſerve him. Salvation is the Lords, it is good ſerving him then, <hi>Dan.</hi> 3.17. <hi>Our God is able to deliver us from the fiery Furnace; and he will deliver us out of thy hands, O King.</hi> This God is to be ſtucke unto.</p>
+               <p>The Lord is faithfull and true, and never failes them that truſts in him. <hi>The Lord is a preſent help in trouble.</hi> A man may goe to the Creature, and it cannot help him; to a Friend, and he is from home, or deceive him. <hi>Men of low degree</hi> (ſayes the Pſalmiſt) <hi>are vanity, but Men of high degree,</hi> they are worſe, <hi>they are a lie.</hi> And the refore truſt not in Princes. But the Lord is alwayes preſent, <hi>when thou goeſt through the fire, and the water, I will be with thee.</hi> Yea, the Lord will ſticke to a Kingdome, or to a poore ſoule, as the Mountaines ſticke, and grow to the Earth. At my firſt anſwer (ſaies St. <hi>Paul</hi>) <hi>all men forſooke me; notwith<g ref="char:EOLhyphen"/>ſtanding the Lord ſtood by me, and ſtreng thned me, and I was delivered out of the mouth of the Lyon.</hi> The Lord was with <hi>Paul</hi> at the Barre, and would not leave him: There is all the reaſon under Heaven to be zealous, and reſolute for ſuch a God as this is: The onely li<g ref="char:EOLhyphen"/>ving, Wiſe, Omnipotent, faithfull God. I might run through all the attributes of God, they all atteſt, and confirme this Truth. For the Uſes, they will fall into the next Point which is this.</p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:112085:13"/>
+               <head>The heart is then in an Heavenly tune, right key, pleaſing and acceptable unto God, when it is peremptorily reſol<g ref="char:EOLhyphen"/>ved to ſticke to God and his waies, whatſoever others do, or whaſoever come on it.</head>
+               <p>When it takes up an unconquerable reſolution to bee for <hi>God:</hi> when it lookes through, or over all dangers, difficulties, and oppofitions; reſolves to make his way through the Rockes, Fire, Water, Li<g ref="char:EOLhyphen"/>ons: He may loſe his body by the way, but his ſpirit ſhall after <hi>God.</hi> When a Mans ſpirit ſtands at that high note for God, that <hi>Davids</hi> three Worthies did for him, who brake through the Campe of the Phi<g ref="char:EOLhyphen"/>liſtims to fetch their King water: So, when the ſoule will fetch the Sabbath, and Ordinances of God, from the midſt of the greateſt oppoſers, this is a gracious frame and temper; when the valour of a mans ſpirit is for God. How well pleaſed was God with this frame of ſpirit in <hi>Caleb,</hi> with this pitch and height, <hi>Numb.</hi> 14.24. <hi>But my ſervant</hi> Caleb, <hi>he had another ſpi<g ref="char:EOLhyphen"/>rit, a reſolute, valiant ſpirit, not a cowardly baſe, feeble ſpi<g ref="char:EOLhyphen"/>rit as the other Spies had.</hi> Let us goe up at once, and poſſeſſe it, for wee are well able to overcome, they are bread for us. This reſolution was in the three Children, <hi>Dan.</hi> 3.16. The King there he dubs a <hi>God,</hi> creates a Hell, ſets up his Cathedrall Muſicke, his Flute and Cornet, Pſalteries, nd Sackbuts; gives out his command, who will not worſhip his Gods, ſhall into his hell: but obſerve with what reſolution the three Children anſwered: Wee are not carefull to anſwere thee in this matter: our God is able, and will deliverus, but if not, know, that wee will not
+<pb n="20" facs="tcp:112085:14"/>ſerve thy Gods, nor worſhip thy golden Image that thou haſt ſet up. Good Subjects for all this; and good manners too, though they tell the King to his tace they will not, and the King accounts them ſo, when God opened his eyes, and hee acquits them. Wee may live to ſee ſuch daies.</p>
+               <p>The like temper of ſpirit was in <hi>Moſes,</hi> for the which he hath obtained a good report, and is ſet downe in the golden legion of believers, <hi>Heb.</hi> 11.27. <hi>By Faith Moſes forſooke</hi> Egypt, <hi>not fearing the wrath of the King.</hi> Adde we but one more o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Joſhua, oſh.</hi> 14.15. he cals all Iſrael together, bids them chuſe whom they would ſerve, whether the Gods which their Fa<g ref="char:EOLhyphen"/>thers worſhip't on the other ſide of the Flood, or the Gods of the <hi>Amorites</hi> in whoſe Land they dwelt: But as for me, <hi>and my Houſe</hi> (ſaies he) <hi>we will ſerve the Lord.</hi> Thus we ſee this reſoluteneſſe of ſpirit for God and his wayes, is found in the redeemed of the Lord, in the brood of Gods travellers.</p>
+               <p>Now the Reaſon why it is thus valued and com<g ref="char:EOLhyphen"/>mended of God, is, becauſe it proceeds frome ſome, or all theſe cauſes.</p>
+               <p n="1">1. From a through, and a full conviction of the ſoule, that theſe are the right waies of God, that the ſoule doth thus reſolutely pitch upon. <hi>Paul</hi> was thus throughly convinc't and therefore thus peremptori<g ref="char:EOLhyphen"/>ly reſolved for the Goſpell, and wiſhes the <hi>Galathians</hi> ſo to bee, <hi>Gal.</hi> 1.8. Though we, we ourſelves, that have Preached this goſpell to you: yet if wee ſhould in hope of preferment, or for feare of ſuffering for the truth, unſay it againe, and Preach another Goſ<g ref="char:EOLhyphen"/>pell: nay, though an Angell from heaven (one that
+<pb n="21" facs="tcp:112085:14"/>may ſeeme ſo to you to be) ſhould come and Preach another Goſpell: bee ſo farre from believing it, or queſtioning the truth of this, as I would have you defie him.</p>
+               <p>So that the Apoſtle would not have them pin their Religion upon his ſleeve. It muſt therefore be a ſupernaturall light, that muſt thus convince the ſoule, and make the wayes of God thus unqueſtiona<g ref="char:EOLhyphen"/>ble, the 2 <hi>Cor.</hi> 1.4, 5. And my Speech, and my Prea<g ref="char:EOLhyphen"/>ching, was not with the enticeing words of mans wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edome, I preach not in the ſtraines of humane e<g ref="char:EOLhyphen"/>loquence, in filed phraſes, and quaint expreſſions; which the wiſedome of the World thinkes the fit<g ref="char:EOLhyphen"/>teſt way to winne men to their ſide, and opinions: but in demonſtration of the Spirit, and of power: that is, hee uſed plainneſſe of Speech, homely ex<g ref="char:EOLhyphen"/>preſſions, which gods ſpirit doth accompany with power: to what end did the Apoſtle this? <hi>Verſ.</hi> 5. <hi>That your faith might not ſtand in the Wiſdome of Men;</hi> that is, that you might not belive this to be the truth becauſe it came in abundance of earthly Wiſedome; for then, if another come with finer words, and more wit, you will goe to him, and forſake this: Or others, Preaching the ſame Goſpell, but not with the like Worldly wiſedome and eloquence, you would not believe it to be the ſame. So that you would believe no longer then you are fed with Worldly wit, and fine words: <hi>but that your faith might ſtand in the power of God:</hi> that is, that you might believe it upon ſuch grounds, upon ſuch a powerfull conviction of the ſpirit, that all the World ſhould not be able to turn you from it; a ſtedfaſt, unconquerable reſolution
+<pb n="22" facs="tcp:112085:15"/>proceeds from a powerfull and thorough convicti<g ref="char:EOLhyphen"/>on of the truth of <hi>God</hi> and his wayes. That is the firſt Reaſon.</p>
+               <p n="2">2. It proceeds from an apprehenſion and feare of danger, if a man forſake thoſe wayes of GOD. Feare and danger doe excite courage and reſolution: when a man apprehends that the greateſt danger is, a fal<g ref="char:EOLhyphen"/>ling into the hands of God: as <hi>Ioſeph,</hi> if he had yiel<g ref="char:EOLhyphen"/>ded to his Miſtreſſe for feare of her anger, had fallen into the wrath of GOD: <hi>How can I doe this evill and ſin againſt God?</hi> And ſo <hi>Moſes Heb.</hi> 11.27. He for<g ref="char:EOLhyphen"/>ſooke <hi>Aegypt,</hi> not fearing the Kings diſpleaſure: who would he then feare? a greater, ſeeing him who was invinſible; one that could have made <hi>Aegypt</hi> too hot for him if hee had ſtayed ſtill. The three chil<g ref="char:EOLhyphen"/>dren feared a hotter furnace, if they ſhould worſhip the golden Image. Full to this purpoſe was the ſpeech which one uttered when he was before ſome that threatned him with priſon, fire and faggot, if he would not forſake the truth: who anſwered to a friend that ſtood by, they have not threatned Hell yet. So when a man apprehends Hell the worſt of Priſons, and everlaſting deſtruction the King of terrours to awaite him, if he forſake GOD and his wayes, this will make him reſolute for GOD.</p>
+               <p n="3">3. It proceeds from hope, hope of gaine and pre<g ref="char:EOLhyphen"/>ferment makes men bold, puts courage and reſolu<g ref="char:EOLhyphen"/>tion into them: hope of preferment hath made ma<g ref="char:EOLhyphen"/>ny a man reſolute, and even paſt ſhame in an evill and Idolatrous courſe: hope of white ſleeves hath made many a man bloody his fingers: Well, Gods chil<g ref="char:EOLhyphen"/>dren they have hope too, which does exceedingly
+<pb n="23" facs="tcp:112085:15"/>much ſtrengthen their reſolutions: The Crowne of righteouſneſſe, the weight of glory, the Kingdome prepared from the beginning, theſe were <hi>Pauls</hi> hopes, theſe are and were ours: and theſe beare our charges in all our ſufferings. Feare not <hi>Abraham</hi> (ſaith GOD) I am thy Buckler, and thy exceeding great reward: I'le ſee thee payd, that thou ſhalt be no looſer: and now <hi>Abraham</hi> would lackey it at the ſtirrup, and goe from his Fathers houſe whether GOD would have him. So when a man apprehends that God carries the purſe, and that the keyes of pre<g ref="char:EOLhyphen"/>ferment hangs at his girdle, and he can truſt God for all, this will make him valiant and reſolute for the wayes of God.</p>
+               <p n="4">4. It proceeds from Love: love to the party for whom we are thus reſolute; and therefore it muſt needs pleaſe God. Love lookes through all dangers, and difficulties; weakens all oppoſition: ſtrength<g ref="char:EOLhyphen"/>ens it ſelfe; makes it apprehend any thing feaſable: your reſolution will tell you what you are, and whom you love, <hi>Ruth</hi> 1.14. There are two pretend love, but <hi>Orpha</hi> is ſoon taken off, when <hi>Naomi</hi> tells her, that ſhe had no preferment for her: yet ſee the reſolution of <hi>Ruth, ver.</hi> 16. <hi>Intreat mee not to leave thee: where thou goeſt, I will goe: where thou lodgeſt, I will lodge, nothing ſhall part thee and mee but death.</hi> Here's love, and here was reſolution.</p>
+               <p n="5">5. And laſtly, It proceeds from Experience: the ſoule hath taſted of the ſweetneſſe, comfort, peace, and joy of the wayes of <hi>God,</hi> and therefore is it ſo reſolute for them, <hi>Pſal.</hi> 119.103. <hi>How ſweet are thy words unto my taſte, yea ſweeter than honey to my mouth.</hi>
+                  <pb n="24" facs="tcp:112085:16"/>And ſee what followes upon this, <hi>v.</hi> 106. <hi>I have ſworne and I will performe it: that I will keep thy righte<g ref="char:EOLhyphen"/>ous Judgements.</hi>
+               </p>
+               <p>The ſoule cleaves to that, that bids moſt plea<g ref="char:EOLhyphen"/>ſure: for pleaſure is the food of the ſoule: the body can as well live without food, as the ſoule can with<g ref="char:EOLhyphen"/>out pleaſure: when the ſoule hath taſted how tran<g ref="char:EOLhyphen"/>ſcendently ſweet the wayes of <hi>God</hi> are; what ſweet hopes; what bleſſed peace; what joy unſpeakable and glorious the word and wayes of <hi>God</hi> doe breed in the ſoule: it pitches it's tent, ſets up it's reſt, there it will dwell, and with them it will remove. The God<g ref="char:EOLhyphen"/>leſſe Courtiers and Flatterers without all queſtion, thought <hi>Daniell</hi> to be a foole; That he would ha<g ref="char:EOLhyphen"/>zard all his Court-preferment, and his life too: but he would be praying, and he muſt have his window opened too. So many thinke thoſe to be farre from wiſedome, that doe too farre ingage themſelves in the cauſe of God: if you doe not heare ſo, I am ſure they doe in the Country: for of late we have heard them thus ſay: what, you muſt bee running to Ser<g ref="char:EOLhyphen"/>mons, though the Court catch you: and you will not bow downe to the name of Jeſus, though you be undone. But wee may give you that Anſwere, that was given for the Martyrs in the Primi<g ref="char:EOLhyphen"/>tive Church: <hi>Videtis punctiones, ſed non unctiones:</hi> they then, and ſo you now can ſee their ſmart and ſufferings, but not their refreſhings: the peace, love, and joy, unſpeakable comfort which the Saints of God then, and now have met withall in theſe wayes of God. You which powre out your ſelves in Hawkes and Houndes, and other paſtimes: and
+<pb n="25" facs="tcp:112085:16"/>thinke that the Saints of God doe live a mopiſh life, and their ſoules dwell in too narrow a lane: yet could you but meet with thoſe heates of heart, and hints of love and mercy, that they meet withall from their God; you would be ready, not onely to doe, but to ſuffer with them. Hee that hath once taſted of the ſavour of Chriſts oyntments will never leave him. We might give you more of theſe Rea<g ref="char:EOLhyphen"/>ſons, but theſe may ſuffice.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vſe </seg>1</label> The firſt Uſe might bee, a booke of Lamentation for the want of this Chriſtian valour and reſolution. May not we well complaine, as <hi>Jer.</hi> 9.3. They are not valiant for the truth upon Earth. How many a<g ref="char:EOLhyphen"/>mongſt us are Laodiceans, luke-warme: neither through Proteſtants, nor ranke Papiſts? <hi>Eliah</hi> never lived in a more halting age than we doe: men ſtand watching which ſide will prevayle; and doe deter<g ref="char:EOLhyphen"/>mine to cloſe and comply with that: they will bee wiſer then to ſuffer for Chriſt; bee ſure to ſave one ſtake, and to ſleep in a whole skin: they were for the old <hi>Elſabeth</hi> wayes; and when the Popiſh language of Prieſts and Altars, and the ſuperſtitious bow<g ref="char:EOLhyphen"/>ings and geſtures vvere brought in under a pretence of Authority; they could then tune their tongues, and ſoon learne their poſtures: and now Authority diſcountenances them, they can forbeare: and if times ſhould turne head againe, they would doe as they did. So that we may complayne of this time, as they did of <hi>Neroes:</hi> that the World had loſt his Conſcience, it was growne ſo highly wicked. Men make now no conſcience of things in Religion: their feare towards God is taught them by the precepts of
+<pb n="26" facs="tcp:112085:17"/>men: they willingly follow the Commandement, whether it be for or againſt God. Inconſtancy in any thing is naught, but worſt of all in Religion.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>2</label> Of Exhortation: that you would get, keep, and increaſe this frame of Spirit in you: that you would be reſolute and couragious, and undaunted for your God, and for your Religion: looke through, and over all dangers, in nothing terrified by your adver<g ref="char:EOLhyphen"/>ſaties: thinke not death too great a danger to cope withall for God and his Truth.</p>
+               <p>How many, and how weighty are the Motives I might uſe to perſwade you to this: I know that many of you have ſtronger in your owne boſomes, and breaſts: yet the Ordinance of God being pow<g ref="char:EOLhyphen"/>erfull, give mee leave to uſe theſe:</p>
+               <p>Firſt, Conſider, that your God, and your Religi<g ref="char:EOLhyphen"/>on are the beſt things you have; things of the high<g ref="char:EOLhyphen"/>eſt nature, of the greateſt conſequence, of the neer<g ref="char:EOLhyphen"/>eſt concernment: things above us, and not under us: things that muſt diſpoſe of us, and we muſt not diſ<g ref="char:EOLhyphen"/>poſe of them: wee had better loſe all, then loſe our God, and his Truth. If we loſe Father, Mo<g ref="char:EOLhyphen"/>ther, Houſe, Land, Life, and all for God and his Goſpell: Wee ſhall ſoone finde better: yee know who hath promiſed it, if you beleeve not him, you will not mee: we cannot bee loſers but by flying: Religion is worthy of all a mans courage: where can we lay it out better? nay, ſo well? It is the errand that you are met about at this time: and therefore I praylook to it. Nay, it is the errand that you are come for into the World, to finde out the true God and the true Religion, <hi>Jer.</hi> 6.16. Thus ſaith the Lord
+<pb n="27" facs="tcp:112085:17"/>ſtand yee in the wayes, and ſee, and aske for the old path, where is the good way, and walke therein, and you ſhall finde reſt to your ſoules. It is the bu<g ref="char:EOLhyphen"/>ſineſſe of a mans life, to find out the true God, and the true Religion. Nay, this is your wiſedome: wiſedome conſiſts in finding out truths: and the greateſt wiſedome in finding out the moſt rare, plea<g ref="char:EOLhyphen"/>ſant, and profitable truths. Now Religion is a myſtery: all her wayes are pleaſantneſſe, and all her paths are peace. And <hi>what would it profit a man to winne the whole world, and looſe his owne ſoule:</hi> a man is ſure to looſe it in a falſe Religion, and ſave it in a true. Nay, this is your bleſſednes, <hi>Matth.</hi> 13.16. <hi>Bleſſed are your eyes, for they ſee; and your eares for they heare:</hi> what was it that made them thus bleſſed, but ſeeing Chriſt in the fleſh, and hearing the Goſ<g ref="char:EOLhyphen"/>pell? Religion is an eternall good, and doth a man good for ever, when this life is ended.</p>
+               <p>Nay, this is your Honour, and take it from mee: you ſhall not excell, except you be reſolute for your God, and for your Religion. The <hi>Bereans</hi> were Noble in ſearching out the truth of Religion. And <hi>the Elders obtained a good report, Heb.</hi> 11.2. and ho<g ref="char:EOLhyphen"/>nourable Name with God, and his Church, by ſtan<g ref="char:EOLhyphen"/>ding for his truth unto the death. And t'is the moſt diſhonourable thing in the World for a man to for<g ref="char:EOLhyphen"/>ſake his God, and to flye from his Religion. It is a ſhame for a boy to runne from his Maſter: worſe for a wife to runne away from her Husband: but the greateſt of all, for a man to runne away from his God. Oh! <hi>quit your ſelves like men:</hi> contend earneſtly for the faith, let not the ruine of Religion be in your
+<pb n="28" facs="tcp:112085:18"/>hands: whatſoever we leave our Children, let us to the utmoſt indeavour to leave the true God, and the true Religion.</p>
+               <p n="2">2. Conſider this: That you have reſolution and courage, and why may not God have it, and his Cauſe? God hath the moſt right to it, and to all that you can loſe in this quarrell, as your valour and courage comes from God, ſo, why may it not be for God? All waters fall into the Sea from whence they come, why not this? Can you be ſtiffe and reſolute for the world, and worldly things; not loſe a foot of Land, nor a Priviledge, nor cuſtome: and have you no ſpirit for God? ſhall men ſtand upon their punctilioes, and ſhew their mettle for every toy: draw their Swords for the Wall when 'tis none of theirs? And ſhall wee like tame fools, ſuffer every one to wipe our noſes of our God, and of our Reli<g ref="char:EOLhyphen"/>gion? Wee ſhall find ſome of the Saints of God in the Scripture, that were of meek and of calme ſpi<g ref="char:EOLhyphen"/>rits, but onely in the Cauſe of their God: As <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> the meekeſt man upon the earth, but when hee ſaw the golden Calfe, hee breaks the Tables, which were the workmanſhip and the writings of God. And ſee what he does more, in the 32. <hi>Exod.</hi> 27. <hi>Put every man his ſword by his ſide, and goe in and out from Gate to Gate throughout the Campe, and ſlay every man his Brother, and every man his Companion, and every man his Neighbour.</hi> Is this your meek man? that fights e<g ref="char:EOLhyphen"/>ven up to the eares in blood? but this was the Cauſe of God. And ſo the three Children, all the courage and reſolution wee read of them, was for their God: Let not a contrary ſpirit bee found in us: reſolute,
+<pb n="29" facs="tcp:112085:18"/>ſtiffe and peremptory for every thing; but for God and his Cauſe.</p>
+               <p n="3">3. Conſider, That all men are reſolute for their God, and for their Religion: for all Nations will walke every one in the name of his God. It's naturall for men. How reſolute are <hi>Papiſts</hi> and <hi>Mahumetans</hi> for their Gods, though of dirt, deafe and blind, nei<g ref="char:EOLhyphen"/>ther able to heare, nor to helpe them in their di<g ref="char:EOLhyphen"/>ſtreſſes, and ſhall we be cold, and careleſſe for our li<g ref="char:EOLhyphen"/>ving God? <hi>Ier.</hi> 2.10. Paſſ over the Iſles of <hi>Chittim,</hi> and ſend, and ſee, and ſend unto <hi>Kedar,</hi> and conſider diligently, and ſee if there be ſuch a thing, why, what's this? Hath a Nation changed their Gods, which are yet no Gods? Look about where you pleaſe, ſearch the world and ſee if you can ſee ſuch inconſtancy and impiety: is there any Nation that hath changed their God they have taken up, al<g ref="char:EOLhyphen"/>though they be no Gods at all? Be aſtoniſhed, O Hea<g ref="char:EOLhyphen"/>vens! heres a wonder to make the Sunne to bluſh: My people have done this; well, what followes? <hi>verſ.</hi> 14. Is <hi>Iſrael</hi> a Servant? Is hee a home borne ſlave? What's become of <hi>Iſraels</hi> ſpirit? Is he borne to vaſſallage, and deſtined to ſlavery? If he had any courage in him, he would ſhow it for his God. Oh! let the reſoluteneſſe of thoſe that worſhip ſtocks and ſtones, ſhame us that wee have ſo little ſpirit for the living God.</p>
+               <p n="4">4. God is and hath been reſolute for you, and for all his Elect, his good will was ſet for you in the be<g ref="char:EOLhyphen"/>ginning, hee then determined your good, and no<g ref="char:EOLhyphen"/>thing could change him: He determines Salvation for his Elect, but they ſinne and make themſelves un<g ref="char:EOLhyphen"/>capable
+<pb n="30" facs="tcp:112085:19"/>of it: but God will have them to it, and will break through all difficulties and dangers. Jeſus Chriſt breaks through Death and Hell, and meets the wrath of God in the open field to redeeme his people <hi>Eſai.</hi> 9.7. The zeale of the Lord of Hoſts ſhall doe this: God is ſet upon it, and he will fetch them out of the hands of all their adverſaries. Zeale is the height of Reſolution, and is one of the pie<g ref="char:EOLhyphen"/>ces of Gods Armour, with which he cloathes him<g ref="char:EOLhyphen"/>ſelfe, when hee fights for his Church, <hi>Eſai.</hi> 59.17. And hee put on righteouſneſſe as a breaſt-plate, and an helmet of Salvation upon his head, and put on the Garment of vengeance for cloathing, and was clad with zeale as with a Cloak. With what ſted<g ref="char:EOLhyphen"/>faſtnes and immovable reſolution did our Saviour Chriſt goe through the worke of our Redemption: when <hi>Peter</hi> would have called him off; he calls him Devill for his paines: And when ſet about bringing of his people out of <hi>Egypt,</hi> hee tramples all difficul<g ref="char:EOLhyphen"/>ties under his feet, He drove as under the Nations: the everlaſting Mountaines were ſcattered, and the perpetuall hills did bow, <hi>Hab.</hi> 3.6. Hee hath a will for his people: it is very fit then, that they ſhould have a will for him, <hi>Pſal.</hi> 68.22. I will bring again from <hi>Baſhan.</hi> I will bring my people againe from the depths of the Sea. Be you reſolute for God for he is for you.</p>
+               <p n="5">5 The Lord is able, and will either deliver you from, or carry you through the danger. That made the three Children ſo reſolute for God: our <hi>God</hi> is able, and he will. If we ſerved a <hi>God</hi> of dirt, that
+<pb n="31" facs="tcp:112085:19"/>could neither heare us, ſee our miſery, nor help us, we might forſake him, and his Cauſe. But when he is <hi>omniſcient, omnipotent, &amp; omni-provident:</hi> One, who as he is good, ſo he doth good: as he is powerfull, ſo he gives power and ſtrength to the weak, why ſhould we then forſake him? It is our own fault, if we have not power either to ſcape the danger, or be carried through it. There is power in Heaven, and we may have it for asking, <hi>Eſai.</hi> 58.8, 9. <hi>The glory of the Lord ſhall be thy rereward,</hi> then ſhalt thou call, &amp; the Lord ſhall anſwer, thou ſhalt cry, &amp; he ſhall ſay here I am. <hi>What is it that is not in the power of God to give?</hi>
+               </p>
+               <p>I'le ſhut up all, deſiring you but to conſider that place in the 6. <hi>Ioh.</hi> Our Saviour in the beginning of the Chapter, preach't a Doctrine about eating of his fleſh, and drinking of his bloud, which carnall hearts could not conceive of, nor digeſt: Whereupon ma<g ref="char:EOLhyphen"/>ny of his Diſciples, (as you have it, <hi>v.</hi> 66.) went back and walked no more with him. So in theſe daies there are many truths a foot, which will not down with men of carnall and corrupt mindes: There<g ref="char:EOLhyphen"/>fore they have forſaken Chriſt &amp; his Cauſe. Our Sa<g ref="char:EOLhyphen"/>viour looking upon the twelve, ſaid, <hi>v.</hi> 67. <hi>Will you alſo goe away?</hi> give me leave to aske the ſame Queſtion of you: <hi>Will you alſo forſake Chriſt and his Cauſe, and ſeeke great things for your ſelves, with the ruine of the Goſpell and Kingdome?</hi> Let your Anſwer be that which <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> in the name of all the reſt, gave, <hi>v.</hi> 68, 69. Lord, <hi>to whom ſhall we goe?</hi> Thou haſt the words of eternall life: and we believe and are ſure, that thou art the Chriſt, the Sonne of the living <hi>God.</hi>
+               </p>
+               <pb n="32" facs="tcp:112085:20"/>
+               <p>I am perſwaded that many of you do believe, and are ſure that theſe are the true and righteous waies of <hi>God,</hi> and do lead to eternall life, reſolve there<g ref="char:EOLhyphen"/>fore to live with them, and in them, and to dye for them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
